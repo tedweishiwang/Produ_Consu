@@ -1,0 +1,23 @@
+commit c6a36fe37bf63017ef0ccbe8ee3dc66d70be2a82
+Author: Weishi Wang <wei.s.wang@mail.mcgill.ca>
+Date:   Mon Dec 4 19:04:52 2017 -0500
+
+    small changes in main.c
+
+commit 2443bdebe56c03c73bae3ff5281079d9b6f4bd56
+Author: Weishi Wang <wei.s.wang@mail.mcgill.ca>
+Date:   Sun Dec 3 19:54:34 2017 -0500
+
+    new testing sentence
+
+commit 47ccea27d9cd2066146273a45ca67dc494a0040b
+Author: Weishi Wang <wei.s.wang@mail.mcgill.ca>
+Date:   Sun Dec 3 18:59:57 2017 -0500
+
+    done by my partner Shihao Miao, ID:260562570
+
+commit e8844b22877af8d25d886e7dcc0bbde1036dd999
+Author: Weishi Wang <wei.s.wang@mail.mcgill.ca>
+Date:   Sun Dec 3 18:58:12 2017 -0500
+
+    done by me
